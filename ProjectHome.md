@@ -1,0 +1,1 @@
+Sistema integral para la administración de condominios.
